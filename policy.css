@@ -1,0 +1,8 @@
+h1,h3 {
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
